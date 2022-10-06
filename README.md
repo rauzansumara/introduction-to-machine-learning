@@ -4,9 +4,11 @@ This laboratory will provide you a foundational understanding of machine learnin
 
 ## Books
 1. [Math for Machine Learning](https://www.amazon.com/Math-Machine-Learning-Artificial-Intelligence/dp/172282381X) by Richard Han
+
 ![](https://raw.githubusercontent.com/rauzansumara/introduction-to-machine-learning/master/Books/book1.jpg)
 
 2. [Mastering Machine Learning with Python in Six Steps](https://www.amazon.com/Mastering-Machine-Learning-Python-Steps-dp-1484249461/dp/1484249461/ref=dp_ob_title_bk) by Manohar Swamynathan
+
 ![](https://raw.githubusercontent.com/rauzansumara/introduction-to-machine-learning/master/Books/book2.jpg)
 
 ## Courses
